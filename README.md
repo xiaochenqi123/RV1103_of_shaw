@@ -1,2 +1,4 @@
 # RV1103_of_shaw
-RV1103学习过程中代码
+RV1103 code generated during the learning process
+For study use only
+
